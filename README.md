@@ -1,7 +1,16 @@
 # 💫 About Me:
 - 🤡 Saya Razz Saya Dari DedSec Community Saya BUkan Siapa Siapa : 🤡
+<style>
+    img{
+        display: block;
+        margin: auto;
+        text-align: center;
+        color: whitesmoke;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+</style>
 
-<img src="https://cdn.discordapp.com/attachments/1040922488051347489/1081798823887769631/20221102_162841.jpg" height="200" width="200" title="dedsec" alt="error ngab" />
+<img src="https://cdn.discordapp.com/attachments/1040922488051347489/1081798823887769631/20221102_162841.jpg" height="200" width="200" title="dedsec" alt="error ngab" tex />
 
 
 ## 🌐 Socials:
