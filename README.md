@@ -1,7 +1,7 @@
 <div align=center>
   
 # 💫 About Me:
-- 🤡 Saya Razz Saya Dari DedSec Community Saya BUkan Siapa Siapa : 🤡
+- 🤡 Saya Razz Saya Dari DedSec Community Saya Bukan Siapa Siapa : 🤡
 
 <img src="https://cdn.discordapp.com/attachments/1040922488051347489/1081798823887769631/20221102_162841.jpg" height="200" width="200" title="dedsec" alt="error ngab" tex />
 
@@ -22,9 +22,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Razzdedsecc&icon=0&color=1)](https://visitcount.itsvg.in)
