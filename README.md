@@ -3,7 +3,7 @@
 # 💫 About Me:
 - 🤡 Saya Razz Saya Dari DedSec Community Saya Bukan Siapa Siapa : 🤡
 
-<img src="https://cdn.discordapp.com/attachments/1040922488051347489/1081798823887769631/20221102_162841.jpg" height="200" width="200" title="dedsec" alt="error ngab" tex />
+<img src="https://cdn.discordapp.com/attachments/1231069191050887283/1318914911627382844/pm_1702655677920_cmp.jpg?ex=67640ebb&is=6762bd3b&hm=a18b5fa12c39f91550948b65220674f2a3bb5b234ed2f38ec0027f7f56269c54&" height="200" width="200" title="dedsec" alt="error ngab" tex />
 
 
 ## 🌐 Socials:
